@@ -11,7 +11,7 @@ export default function Timeline() {
         <li>
           <p className="line">Experiences</p>
           <span className="point"></span>
-          <p className="description">Fullstack Developer @Zerozilla</p>
+          <p className="description">Software Engineer @Zerozilla</p>
           <span className="date"><strong>Mar. 2022 - Today</strong></span>
         </li>
 

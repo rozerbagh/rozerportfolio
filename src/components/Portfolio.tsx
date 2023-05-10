@@ -14,20 +14,6 @@ export default function Portfolio() {
               Ecommerce, Server deployment, Live Streaming</span>
           </div>
         </div>
-      </div>
-      <div className="container cards">
-        <div className="card">
-          <div className="skill-level">
-            <span>+</span>
-            <h2>30</h2>
-          </div>
-
-          <div className="skill-meta">
-            <h3>Projects</h3>
-            <span>Adapting and creating solutions for customer's needs, CMS,
-              Ecommerce, Server deployment, Live Streaming</span>
-          </div>
-        </div>
 
         <div className="card">
           <div className="skill-level">

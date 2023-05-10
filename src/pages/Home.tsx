@@ -12,8 +12,7 @@ const Home = (props: Hometype) => {
     <>
       <Hero />
       <Skills />
-      <br />
-      <br />
+
       <Portfolio />
       <Timeline />
       <br /><br />
